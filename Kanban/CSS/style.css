@@ -1,0 +1,49 @@
+﻿*, *:before, *:after{ 
+    box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+} 
+.table_header {
+            height: 50px;
+            background-color: lightgrey;
+            font-size: large;
+            font-weight: 200;
+            vertical-align:middle;
+            padding: 10px;
+        }
+th {width:20%
+}
+td {border: 1px solid #eee;
+    vertical-align: top;
+}
+.div-note{ 
+    position: relative; 
+    height: 100%; 
+    padding: 18px;
+    background-color: lightblue;
+    top: 0px; 
+    margin: 30px;
+    text-decoration: none;
+}
+ul
+{
+    list-style-type: none;
+    padding:0; margin:0
+}
+#sortable1, #sortable2, #sortable3, #sortable4, #sortable5 {    
+    min-height: 240px;
+}
+
+.span_Complexity {
+    float:right;
+}
+.span_TaskName {margin-top:10px;
+}
+.span_Assignee{margin-top:20px; margin-bottom:10px;}
+
+.btnadd { float:left; border:none
+}
+.marginright50 {margin-right:50px
+}
+.edittask, deletetask { float:right;
+}

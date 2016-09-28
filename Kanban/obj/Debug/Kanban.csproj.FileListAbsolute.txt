@@ -1,0 +1,23 @@
+C:\Users\Nguyen Minh Son\Documents\GitHub\AgileDevelopment\Kanban\obj\Debug\Kanban.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Minh Son\Documents\GitHub\AgileDevelopment\Kanban\bin\Kanban.dll.config
+C:\Users\Nguyen Minh Son\Documents\GitHub\AgileDevelopment\Kanban\bin\Kanban.dll
+C:\Users\Nguyen Minh Son\Documents\GitHub\AgileDevelopment\Kanban\bin\Kanban.pdb
+C:\Users\Nguyen Minh Son\Documents\GitHub\AgileDevelopment\Kanban\obj\Debug\Kanban.dll
+C:\Users\Nguyen Minh Son\Documents\GitHub\AgileDevelopment\Kanban\obj\Debug\Kanban.pdb
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\Kanban.dll
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\Kanban.pdb
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\mscorlib.dll
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\normidna.nlp
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\normnfc.nlp
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\normnfd.nlp
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\normnfkc.nlp
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\normnfkd.nlp
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\obj\Debug\Kanban.csprojResolveAssemblyReference.cache
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\obj\Debug\Kanban.dll
+D:\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\obj\Debug\Kanban.pdb
+H:\ToTo\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\Kanban.dll.config
+H:\ToTo\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\Kanban.dll
+H:\ToTo\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\bin\Kanban.pdb
+H:\ToTo\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\obj\Debug\Kanban.csprojResolveAssemblyReference.cache
+H:\ToTo\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\obj\Debug\Kanban.dll
+H:\ToTo\TOTO\Finland\Lahti\Autumn 2014\project\AgileDevelopment-2811\Kanban\obj\Debug\Kanban.pdb

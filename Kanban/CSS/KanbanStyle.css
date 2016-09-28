@@ -1,0 +1,249 @@
+﻿.KanbanTable {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0;
+}
+
+    .KanbanTable th {
+        width: 20%;
+        border: 1px solid #ccc;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-left: 3px;
+        padding-right: 3px;
+        background: #f0f0f0;
+        text-align: left;
+    }
+
+    .KanbanTable td {
+        width: 20%;
+        padding-top: 0.5em;
+        padding-bottom: 45%;
+        padding-left: 3px;
+        padding-right: 3px;
+        text-align: left;
+        border: 1px solid #ccc;
+        border-top: none;
+    }
+
+body {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    height: 591px;
+}
+
+h1 {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: 900;
+}
+
+/*home page main division*/
+.div {
+    text-align: center;
+    border: none;
+    height: 15%;
+    font-size: x-large;
+}
+
+/* Add New Task button of home page */
+.div1 {
+    text-align: right;
+    border: none;
+}
+
+/*the KanBan board table of home page*/
+.div2 {
+    border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    width: 835px;
+    height: 417px;
+}
+
+Table, Tablecell {
+    border: 1px solid;
+}
+
+TableCell {
+    Width: 20%;
+    Border: Solid;
+}
+
+/*Kanban main table*/
+.table {
+    border: solid 0,5px;
+    text-align: left;
+    margin-right: 5px;
+    border-collapse: collapse;
+}
+
+
+/*add new task button of home page*/
+.button {
+    font-family: sans-serif;
+    font-size: small;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px;
+}
+
+
+
+/*for kanban board table first row*/
+#trow {
+    font-family: sans-serif;
+    font-size: initial;
+    color: black;
+    font-weight: 800;
+    height: 15%;
+    border: solid 1px;
+}
+
+/*for kanban board table second row*/
+#trow1 {
+    font-family: sans-serif;
+    font-size: small;
+    color: black;
+    font-weight: 800;
+    height: 10%;
+}
+
+/*for kanban board third(task tables) row*/
+#trow3 {
+    text-align: left;
+    height: 75%;
+}
+
+/*Kanban Board Task table*/
+.drowplist1 {
+    margin: 0;
+}
+
+TableCell {
+    text-align: left;
+    border: 1px;
+}
+
+.trowS {
+    height: 20%;
+}
+
+.trowH {
+    height: 80%;
+}
+
+
+
+/*the main division for Loginpage, Add comment page, UI_NewTask page, Sign Up page, and UI_ID page (all pages except home page)*/
+.divNewT {
+    width: 50%;
+    margin: auto;
+    height: 377px;
+    text-align: center;
+}
+
+/*the header division of Loginpage, Add comment page, UI_NewTask page, Sign Up page, and UI_ID page (all pages except home page)*/
+.divNewT1 {
+    text-align: left;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    height: 27px;
+}
+
+/*"close" button for Loginpage, Add comment page, UI_NewTask page, Sign Up page, and UI_ID page (all pages except home page)*/
+.btnC {
+    float: right;
+}
+
+/*"Add" or "Submit" button for Loginpage, Sign up page, Add comment page, UI_NewTask page, and UI_ID page(all pages except home page) */
+.NewTAdd {
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 13px;
+}
+
+
+/*For "task fields" of UI_ID page and UI_NewTask page*/
+.divNewT2 {
+    float: right;
+    margin-right: 20px;
+    text-align: left;
+}
+
+/* Text part for UI_NewTask page and UI_ID page */
+.divNewT3 {
+    text-align: left;
+    margin-left: 20px;
+    height: 197px;
+    margin-top: 0px;
+    width: 289px;
+}
+
+/*lable "Task fields" of UI_NewTask page and UI_ID page*/
+.lblTF {
+    font-weight: 800;
+}
+
+
+/*UI_ID*/
+
+divID1 {
+    text-align: right;
+}
+
+
+/*Navigation for all pages */
+#navigation {
+    margin: 0;
+    padding: 0 1em;
+    height: 2.4em;
+    list-style: none;
+}
+
+    #navigation > li {
+        float: right;
+        height: 100%;
+        margin-left: 0,5em;
+        padding: 0 1em;
+    }
+
+        #navigation > li > a {
+            float: left;
+            height: 100%;
+            color: black;
+            text-decoration: none;
+            line-height: 3;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+            #navigation > li > a:hover {
+                text-decoration: underline;
+            }
+
+/*for Login page, add comment page */
+.divComment {
+    text-align: left;
+    margin-left: 30px;
+}
+
+
+/*for the home page form*/
+#formHome {
+    height: 97px;
+}
+
+/*for text area of Add Comment page and UI_NewTask page and UI_ID page*/
+#TextArea1 {
+    height: 101px;
+    width: 276px;
+}
+
+#Title1 {
+    width: 232px;
+}
